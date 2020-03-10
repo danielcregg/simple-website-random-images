@@ -1,6 +1,5 @@
 # github-pages-first-upload
-Learn how to upload a website to GitHub Pages
 
-https://pages.github.com/  
-https://danielcregg.github.io/website/  
-https://programmingliftoff.com/upload-website-github-pages/  
+Example Website: https://danielcregg.github.io/website/  
+GitHub Pages Hosting Instructions: https://pages.github.com/  
+Learn how to upload a website to GitHub Pages: https://programmingliftoff.com/upload-website-github-pages/  
