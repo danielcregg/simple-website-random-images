@@ -1,5 +1,5 @@
-# simple-website-html-css-js
+# simple-website-random-images
 
 https://pages.github.com/  
-https://danielcregg.github.io/website/  
+https://danielcregg.github.io/simple-website-random-images/  
 https://programmingliftoff.com/upload-website-github-pages/  
